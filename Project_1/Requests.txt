@@ -1,0 +1,8 @@
+requests
+scipy
+numpy
+beautifulsoup4
+scholarly
+spacy
+scispacy
+tldextract
